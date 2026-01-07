@@ -2,7 +2,7 @@
 
 ## Link to the code that reproduces this issue
 
-https://github.com/YOUR_USERNAME/nextjs-16-devtools-loop-bug
+https://github.com/hooperits/nextjs-16-devtools-loop-bug
 
 ## To Reproduce
 
